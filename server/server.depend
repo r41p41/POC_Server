@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1392999445 source:c:\users\hex\documents\server\resource.rc
+	"resource.h"
+
+1392999459 c:\users\hex\documents\server\resource.h
+	<windows.h>
+
+1392998181 source:c:\users\hex\documents\server\main.cpp
+	<windows.h>
+	<process.h>
+	"resource.h"
+

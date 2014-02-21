@@ -1,0 +1,13 @@
+#include "resource.h"
+
+DLG_MAIN DIALOGEX 6, 5, 250, 250
+
+CAPTION "template"
+
+FONT 8, "Tahoma"
+
+STYLE 0x10CE0804
+
+BEGIN
+
+END
