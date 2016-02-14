@@ -12,6 +12,6 @@ Server
 <br>didn't test against DDOS.
 <br>will have far worse results obviously.
 <br>Feel free to point out bugs or optimizations 
-<br>shoot message @ kaelsusntrider.raghav@gmail.com
+<br>shoot message @ r41p41@gmail.com
 <br>
 [*]can be modified to work as a reverse proxy on a windows server.
